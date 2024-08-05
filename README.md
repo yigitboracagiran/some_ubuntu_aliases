@@ -1,6 +1,7 @@
 # some_ubuntu_aliases
 
 alias reboot='sudo reboot'
+
 alias shutdown='sudo shutdown now'
 alias .1='cd ../'
 alias .2='cd ../../'
