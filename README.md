@@ -1,4 +1,4 @@
-# some_ubuntu_aliases
+# Some Ubuntu Aliases
 
 alias reboot='sudo reboot'
 
